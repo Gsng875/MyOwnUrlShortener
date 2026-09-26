@@ -1,0 +1,8 @@
+.ds_Store
+build/
+.vscode/
+.idea/
+*.db
+*.o
+*.exe
+theshortenist
